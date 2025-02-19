@@ -1,0 +1,33 @@
+[{      
+    "name": "Buddy",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "age": 5,
+    "color": "golden",
+    "description": "My mama lost the MONKEYT",
+    "status": "found",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinYEEmS5ouBzIpbbtZMztxcddUcYoxH-WNg&s",
+    "phone": "123-456-7890"
+},
+{
+    "name": "Molly",
+    "type": "Dog",
+    "breed": "Bulldog",
+    "age": 3,
+    "color": "white",
+    "description": "Molly is a good girl",
+    "status": "free",
+    "photo": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "phone": "123-456-7890"
+},
+{
+    "name": "Charlie",
+    "type": "Cat",
+    "breed": "Siamese",
+    "age": 2,
+    "color": "white",
+    "description": "Charlie is a good boy",
+    "status": "lost",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0IQhVr9DDJCq61QX28zCoiqDrvezBh5ylw&s",
+    "phone": "123-456-7890"
+}]
